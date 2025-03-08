@@ -44,6 +44,12 @@ Start the server:
 npm start
 ```
 
+Run test cases :
+
+```
+npm run test
+```
+
 The server will start on the port specified in your `.env` file (default: 8081).
 You can access the API at `http://localhost:8081`.
 
